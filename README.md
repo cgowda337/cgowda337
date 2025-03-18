@@ -1,11 +1,11 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">Data Engineer for Boeing</h3>
 
 - 🔭 I’m currently working on the [Boeing Space Launch System](https://www.boeing.com/space/space-launch-system)
+- In my freetime, I enjoy analyzing financial markets and the NBA
+- 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [LinkedIn](https://www.linkedin.com/in/chaitanya-gowda-772098195/)</h3>
 <p align="left">
 </p>
 
