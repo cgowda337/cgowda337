@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on the [Boeing Space Launch System](https://www.boeing.com/space/space-launch-system)
 - In my freetime, I enjoy analyzing financial markets and the NBA
-- 
+- B.S. Industrial Engineering @ UTK
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/chaitanya-gowda-772098195/ </h3>
 <p align="left">
