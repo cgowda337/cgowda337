@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chetan</h1>
+<h1 align="center">Hello, I'm Chetan</h1>
 <h3 align="center">Data Engineer for Boeing</h3>
 
 - 🔭 I’m currently working on the [Boeing Space Launch System](https://www.boeing.com/space/space-launch-system)
