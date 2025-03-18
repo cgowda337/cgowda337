@@ -5,7 +5,7 @@
 - In my freetime, I enjoy analyzing financial markets and the NBA
 - 
 
-<h3 align="left">Connect with me: [LinkedIn](https://www.linkedin.com/in/chaitanya-gowda-772098195/)</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/chaitanya-gowda-772098195/ </h3>
 <p align="left">
 </p>
 
