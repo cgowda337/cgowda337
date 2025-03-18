@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on the [Boeing Space Launch System](https://www.boeing.com/space/space-launch-system)
 - Learned programming/data management through Flash games & Minecraft, found more use cases for analyzing financial markets and NBA later on in life
+- Most of what I have posted is fun projects/experiments
 - B.S. Industrial Engineering @ UTK
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/chaitanya-gowda-772098195/ </h3>
