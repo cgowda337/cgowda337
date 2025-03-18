@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer for Boeing</h3>
 
 - 🔭 I’m currently working on the [Boeing Space Launch System](https://www.boeing.com/space/space-launch-system)
-- Learned programming/data management through Flash games & Minecraft, found more use cases for analyzing financial markets and NBA as I grew up
+- Learned programming/data management through Flash games & Minecraft, found more use cases for analyzing financial markets and NBA later on in life
 - B.S. Industrial Engineering @ UTK
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/chaitanya-gowda-772098195/ </h3>
